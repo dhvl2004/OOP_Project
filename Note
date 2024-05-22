@@ -1,0 +1,9 @@
+Storage Management System
+
+- Storage
+- Item: ID, Name, Image, Quantity, Description
+- Login: Manager, Staff, Customer,
+- Manager:
+- Staff: Check requested item availability (priority, time stamp, )
+- Customer: Check Storage, put item in cart, request the item cart
+-
